@@ -46,7 +46,7 @@ def Newuser():
       else:
         continue
   UserAndPass[user]=repass
-  print('\n*** YOUR ACCOUNT HAS BEEN CREATED ***\n')
+  print('\n***** YOUR ACCOUNT HAS BEEN CREATED *****\n')
 
 def OldUser():
   USER=str(input('Enter your username:'))
